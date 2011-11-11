@@ -83,6 +83,9 @@
 <div id="nav">
 <div class="stamp"><a href="scene.php"></a></div>
 <div class="envelope"><img src="./images/envelope_closed.gif"/></div>
+<noscript>
+  You need to turn javascript on in your browser preferences and re-fresh the page.
+</noscript>
 </div>
 <div id="footer">
 <div class="instructions"><img title="Click stamp to open your card" alt="Click stamp to open your card" src="./images/instructions.png"/></div>

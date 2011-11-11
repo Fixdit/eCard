@@ -172,7 +172,7 @@ $(document).ready(function() {
 								filter: 'alpha(opacity=100)',
 								height:'176px',
 								width:'158px',
-								bottom:'-540px',
+								bottom:'-546px',
 								left:'518px'
 							  },800);
 							

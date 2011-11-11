@@ -50,16 +50,16 @@
     height: 673px;
     width: 456px;
 }
+.mobile .paper-curl {
+    bottom: -546px;
+}
 .mobile .paper-curl img {
-    height: 175px;
-    width: 157px;
+    height: 178px;
+    width: 160px;
 }
 .mobile .shooting-star img {
     width: 134px;
     height: 74px;
-}
-.mobile .paper-curl {
-    bottom: -540px;
 }
 .mobile .santas-slay img {
 
