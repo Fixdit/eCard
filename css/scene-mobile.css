@@ -51,7 +51,7 @@
     width: 456px;
 }
 .mobile .paper-curl {
-    bottom: -546px;
+    bottom: -22px;
 }
 .mobile .paper-curl img {
     height: 178px;
@@ -78,4 +78,8 @@
 .mobile .msg-prt2 img {
     height: 89px;
     width: 353px;
+}
+.mobile .help, .mobile .copyright {
+	font-size:16px;
+	line-height:1.2em;
 }

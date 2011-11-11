@@ -31,14 +31,13 @@ body.ipad {
     /* // image replacement */
 			
 #container {
-    background: none repeat scroll 0 0 #000000;
+    background: none repeat scroll 0 0 transparent;
     margin: 40px auto 2em;
     position: relative;
     text-align: left;
     width: 675px;
 	height:0px;
 	opacity:0;
-	overflow:hidden;
 	z-index:0;
 }
 #wrapper {

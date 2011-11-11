@@ -91,7 +91,7 @@ $(document).ready(function() {
 		  //play_sound('/ecard/sounds/N1.mp3');
 		  
 		  $('#scene').delay(2000).animate({
-			top: '-600px'
+			top: '-622px'
 		  }, 10000, function() {
 			  
 			var snow_fall = $(".snow-fall");
@@ -172,7 +172,7 @@ $(document).ready(function() {
 								filter: 'alpha(opacity=100)',
 								height:'176px',
 								width:'158px',
-								bottom:'-546px',
+								bottom:'-22px',
 								left:'518px'
 							  },800);
 							

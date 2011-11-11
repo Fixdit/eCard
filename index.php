@@ -93,7 +93,7 @@
 <div class="help">
 The best viewing experience will be had when viewed over a WIFI network.<br/><br/>
 If you're having trouble seeing the animation above<br/>
-you may need to turn javascript on in your browser preferences.
+you may need <i>'clear cache'</i> in your browser preferences.
 </div>
 </div>
 <img title="pre-load" style="display:none" src='./images/starry_night<?php if($mobile==true):?>-mobile<?php endif;?>.jpg' />

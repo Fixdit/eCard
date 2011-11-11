@@ -3,6 +3,13 @@
     top: 0px;
 	/*top:-600px;*/
 }
+#mask {
+	height: 562px;
+    overflow: hidden;
+    position: relative;
+    width: 675px;
+    z-index: 0;
+}
 .land {
     bottom: -200px;
     position: absolute;
@@ -105,7 +112,7 @@
 	filter: alpha(opacity=0);
 }
 .paper-curl {
-    bottom: -540px;
+    bottom: -22px;
     left: 518px;
     position: absolute;
     z-index:99;
