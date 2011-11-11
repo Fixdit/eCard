@@ -1,0 +1,71 @@
+/* Area di scorrimento */
+#left {
+	width: 400px;
+	height: 100px;
+	overflow: hidden;
+	border: 3px solid black;
+	padding: 0px;
+	clear:both;
+	}
+
+/* Immagini */
+#left img {
+	height: 100px;
+	margin: 0px;
+	border: 0px;
+	clear:both;
+	}
+	
+/* Area di scorrimento */
+#right {
+	width: 400px;
+	height: 100px;
+	overflow: hidden;
+	border: 3px solid black;
+	padding: 0px;
+	clear:both;
+	}
+
+/* Immagini */
+#right img {
+	height: 100px;
+	margin: 0px;
+	border: 0px;
+	clear:both;
+	}
+	
+/* Area di scorrimento */
+#top {
+	width: 160px;
+	height: 300px;
+	overflow: hidden;
+	border: 3px solid black;
+	padding: 0px;
+	clear:both;
+	}
+
+/* Immagini */
+#top img {
+	width: 160px;
+	margin: 0px;
+	border: 0px;
+	clear:both;
+	}
+	
+/* Area di scorrimento */
+#bottom {
+	width: 675px;
+	height: 300px;
+	overflow: hidden;
+	border: 3px solid black;
+	padding: 0px;
+	clear:both;
+	}
+
+/* Immagini */
+#bottom img {
+	width: 675px;
+	margin: 0px;
+	border: 0px;
+	clear:both;
+	}

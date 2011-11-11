@@ -1,0 +1,81 @@
+.mobile .land img {
+	width:675px;
+	height:583px	
+}
+.mobile .sky img {
+	width:675px;
+	height:997px;	
+}
+.mobile .house-light-1 img {
+	width:187px;
+	height:120px;
+}
+.mobile .house-light-2 img {
+	width:79px;
+	height:116px;
+}
+.mobile .house-light-3 img {
+	width:28px;
+	height:28px;
+}
+.mobile .house-light-4 img {
+	width:80px;
+	height:66px;
+}
+.mobile .house-light-5 img {
+	width:52px;
+	height:62px;
+}
+.mobile .tree-snow img {
+	width:641px;
+	height:452px;
+}
+.mobile .snow-fall img  {
+    height: 562px;
+    width: 675px;
+}
+.mobile .tree-lights-small img {
+	width:200px;
+	height:263px;
+}
+.mobile .tree-lights-large img {
+	width:286px;
+	height:519px;
+}
+.mobile .northern-light-1 img{
+    height: 673px;
+    width: 456px;
+}
+.mobile .northern-light-2 img {
+    height: 673px;
+    width: 456px;
+}
+.mobile .paper-curl img {
+    height: 175px;
+    width: 157px;
+}
+.mobile .shooting-star img {
+    width: 134px;
+    height: 74px;
+}
+.mobile .paper-curl {
+    bottom: -540px;
+}
+.mobile .santas-slay img {
+
+}
+.mobile .msg-prt1-mask {
+	left:190px;
+    top: 30px;
+}
+.mobile .msg-prt2-mask {
+    top: 440px;
+}
+.mobile .msg-prt1 img {
+    height: 124px;
+    width: 442px;
+}
+.mobile .msg-prt2 img {
+    height: 89px;
+    width: 353px;
+}

@@ -1,0 +1,106 @@
+body {
+		background:#FFF;
+		font:80% Trebuchet MS, Arial, Helvetica, Sans-Serif;
+		color:#333;
+		line-height:180%;
+		margin:0;
+		padding:0;
+		text-align:center;
+		height:780px;
+
+	}
+body.ipad {
+		/*width:675px;*/
+	}
+	h1{
+		font-size:180%;
+		font-weight:normal;
+		margin:0;
+		padding:0 20px;
+		}
+	h2{
+		font-size:160%;
+		font-weight:normal;
+		}	
+	h3{
+		font-size:140%;
+		font-weight:normal;
+		}	
+	img{border:none;}
+	
+    /* // image replacement */
+			
+#container {
+    background: none repeat scroll 0 0 #000000;
+    margin: 40px auto 2em;
+    position: relative;
+    text-align: left;
+    width: 675px;
+	height:0px;
+	opacity:0;
+	overflow:hidden;
+	z-index:0;
+}
+#wrapper {
+    position: relative;
+    z-index: 3;
+}
+#wrapper #nav {
+	margin: 150px 0 0;
+}
+	#header{
+		height:80px;
+		line-height:80px;
+		background:#5DC9E1;
+		color:#000;
+		}				
+	#content{
+		position:relative;
+		}
+#container {
+    margin: 100px auto 2em;
+}
+.ipad #wrapper #nav img {
+    position: relative;
+}
+#footer {
+    color: #999999;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    line-height: 1.2em;
+    margin: 5px 0 0;
+}
+.instructions {
+
+}
+.copyright {
+    margin: 40px 0 0;
+	position:relative;
+	bottom:0px;
+}
+.help {
+    margin: 15px 0 0;
+}
+.stamp {
+	width:90%;
+	text-align:center;
+    position: absolute;
+    top: 135px;
+}
+.stamp a {
+	left:50%;
+    background: url("../images/stamp.png") no-repeat scroll 0 0px transparent;
+    cursor: pointer;
+    height: 100px;
+    overflow: hidden;
+    position: absolute;
+    width: 94px;
+    z-index: 51;
+}
+.stamp a:hover {
+    background: url("../images/stamp.png") no-repeat scroll 0 -107px transparent;
+}
+.envelope {
+	position:relative;
+    z-index: 34;
+}
