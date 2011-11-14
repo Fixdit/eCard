@@ -165,7 +165,7 @@ $(document).ready(function() {
 							  right:'-400px',
 							  height:'100%',
 							  width:'100%'
-							},5000,function() {
+							},10000,function() {
 													
 							  $(".paper-curl").animate({
 								opacity: '1',
