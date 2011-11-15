@@ -103,3 +103,18 @@ body.ipad {
 	position:relative;
     z-index: 34;
 }
+/* UI */
+#ui {
+	display:none;
+    text-align: center;
+    width: 99%;
+    z-index: 55;
+}
+#ui.play-again {
+    height: 85px;
+    margin: 0;
+    position: absolute;
+    top: 380px;
+	opacity:0;
+	filter: alpha(opacity=0);
+}

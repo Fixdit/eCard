@@ -62,8 +62,8 @@
 	 $tablet = true;
   }
   else {
-     // do something else
-  }   
+	 // do something
+  }    
    
   ?>
 	<div id="content">
