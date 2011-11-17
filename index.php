@@ -79,7 +79,6 @@
   <body class="ipad <?php if($mobile==true):?>mobile<?php endif;?>">
     <div id="container">
     </div>
-    <div id="ui" class="play-again"><a href="scene.php"><img src='./images/play_again-btn.png' title='play again' /></a></div>
     <div id="wrapper">
       <div id="nav">
         <div class="stamp"><a href="scene.php"></a></div>
@@ -90,7 +89,10 @@
       </div>
       <div id="footer">
         <div class="instructions"><img title="Click stamp to open your card" alt="Click stamp to open your card" src="./images/instructions.png"/></div>
-        <div class="copyright">© Nestlé 2011</div>
+        <div class="copyright">
+        <div id="ui" class="play-again"><a href="scene.php" title="Click here to play again">Play Again</a></div>
+        © Nestlé 2011
+        </div>
         <div class="help">
         The best viewing experience will be had when viewed over a WIFI network.<br/><br/>
         If you're having trouble seeing the animation above<br/>

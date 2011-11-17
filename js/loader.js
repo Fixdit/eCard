@@ -178,7 +178,7 @@ $(document).ready(function() {
 								  
 								$("#ui").css('display','block');
 								  
-								$("#ui").delay(6000).animate({
+								$("#ui").delay(200).animate({
 								  opacity: '1',
 								  filter: 'alpha(opacity=100)'
 								},500);
@@ -372,7 +372,7 @@ $(document).ready(function() {
 								  
 								$("#ui").css('display','block');
 								  
-								$("#ui").delay(6000).animate({
+								$("#ui").delay(200).animate({
 								  opacity: '1',
 								  filter: 'alpha(opacity=100)'
 								},500);

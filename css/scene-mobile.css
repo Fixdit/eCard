@@ -84,6 +84,9 @@
 	line-height:1.2em;
 }
 /* UI */
-#ui.play-again img {
+.mobile #ui {
+	font-size:18px;
+}
+.mobile #ui.play-again img {
     width: 300px;
 }

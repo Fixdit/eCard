@@ -109,12 +109,21 @@ body.ipad {
     text-align: center;
     width: 99%;
     z-index: 55;
+	font-size:14px;
 }
 #ui.play-again {
-    height: 85px;
-    margin: 0;
-    position: absolute;
-    top: 380px;
+    /*height: 85px;*/
+    margin: 0 0 20px 6px;
+    /*position: absolute;
+    top: 380px;*/
 	opacity:0;
 	filter: alpha(opacity=0);
+}
+#ui.play-again a, #ui.play-again a:visted {
+	color:#999999;
+	text-decoration:none;
+}
+#ui.play-again a:hover {
+	color:#900;
+	text-decoration:none;
 }
